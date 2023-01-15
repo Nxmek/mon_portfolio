@@ -24,7 +24,7 @@ const NavBar = () => {
           <span>2.</span> À propos
         </Link>
         <Link to="/mon_portfolio/competences-formations">
-          <span>3.</span> Compétences et formation
+          <span>3.</span> Compétences et formations
         </Link>
         <Link to="/mon_portfolio/projets">
           <span>4.</span> Mes projets
