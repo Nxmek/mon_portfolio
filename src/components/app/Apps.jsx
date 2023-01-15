@@ -9,7 +9,7 @@ const App = () => {
     <div className={mc.container}>
       <NavBar />
       <Routes>
-        <Route path="/mon_portfolio" element={<Home />} />
+        <Route index path="/mon_portfolio" element={<Home />} />
         <Route path="/competences" element={<Competences />} />
       </Routes>
     </div>
