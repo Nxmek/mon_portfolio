@@ -1,0 +1,45 @@
+.container {
+    //fullscreen
+    padding: 0 150px;
+    overflow: scroll;
+
+    .first {
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+        max-height: 100vh;
+        gap: 24px;
+
+        .je_suis {
+            color: var(--primaryColor);
+            font-family: 'Fira Code', monospace;
+        }
+
+        .name {
+            color: var(--light-text);
+            font-size: 70px;
+            margin: 0
+        }
+
+        h2 {
+            font-size: 70px;
+            margin: 0
+        }
+
+        .stage {
+            max-width: 48%;
+            line-height: 1.8em;
+            display: inline-block;
+            color: var(--light-text);
+
+            span {
+                color: var(--primaryColor);
+                font-weight: 400;
+            }
+        }
+
+        .button {
+            max-width: 110px;
+        }
+    }
+}

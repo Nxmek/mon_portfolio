@@ -1,0 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--darkColor);
+    color: var(--text);
+}
+
+::selection {
+    color: var(--darkColor);
+    background-color: var(--primaryColor);
+}

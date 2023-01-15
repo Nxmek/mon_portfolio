@@ -1,0 +1,12 @@
+.darkBtn {
+    padding: 10px 16px;
+    background: transparent;
+    border-radius: 5px;
+    outline: none;
+    color: var(--green);
+    transition: background-color 0.3s;
+
+    &:hover {
+        background-color: var(--btn-hover-bg);
+    }
+}

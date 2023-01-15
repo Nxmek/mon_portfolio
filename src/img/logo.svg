@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="482.00003px" height="482.00003px" viewBox="0 0 482.00003 482.00003" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M241 0L449.712 120.5L449.712 361.5L241.001 482L32.2883 361.501L32.2874 120.501L241 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Groupes">
+    <g id="Polygone-2">
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#64FFDA" stroke-width="30" />
+      </g>
+    </g>
+    <path d="M334.604 145.5L264.332 337.1L217.668 337.1L147.396 145.5L188.571 145.5L241.275 297.847L293.704 145.5L334.604 145.5Z" id="V" fill="#64FFDA" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
