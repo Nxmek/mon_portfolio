@@ -17,16 +17,16 @@ const NavBar = () => {
 
       <div className={mc.menu}>
         {" "}
-        <Link to="/">
+        <Link to="/mon_portfolio">
           <span>1.</span> Accueil
         </Link>
-        <Link to="/a-propos">
+        <Link to="/mon_portfolio/a-propos">
           <span>2.</span> À propos
         </Link>
-        <Link to="/competences-formations">
+        <Link to="/mon_portfolio/competences-formations">
           <span>3.</span> Compétences et formation
         </Link>
-        <Link to="/projets">
+        <Link to="/mon_portfolio/projets">
           <span>4.</span> Mes projets
         </Link>
         <div className={mc.btn}>
