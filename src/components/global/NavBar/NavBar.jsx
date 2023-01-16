@@ -7,7 +7,7 @@ import Buttons from "../button/Button";
 const NavBar = () => {
   return (
     <nav className={mc.container}>
-      <Link to="/">
+      <Link to="/mon_portfolio">
         <div className={`adaptive-img-contain ${mc.logo}`}>
           <span>
             <img src={logo} alt="Logo" />
