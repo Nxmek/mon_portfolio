@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mon_portfolio/static/css/main.cfe1bd57.css",
-    "main.js": "/mon_portfolio/static/js/main.b8ec3b93.js",
+    "main.js": "/mon_portfolio/static/js/main.c29eaf43.js",
     "static/media/photo.jpg": "/mon_portfolio/static/media/photo.ea612aa9317c0e57ba55.jpg",
     "static/media/FiraCode.ttf": "/mon_portfolio/static/media/FiraCode.4938e54ab2f06530a084.ttf",
     "static/media/Poppins-ThinItalic.ttf": "/mon_portfolio/static/media/Poppins-ThinItalic.9d5e661e645ce9a32fe6.ttf",
@@ -19,14 +19,14 @@
     "static/media/mongo.png": "/mon_portfolio/static/media/mongo.a8889d623357ad8ce30e.png",
     "static/media/UXlogo.png": "/mon_portfolio/static/media/UXlogo.f52ae7fd89e0f8904076.png",
     "static/media/adobe.png": "/mon_portfolio/static/media/adobe.c4878319cd8d6c70f407.png",
-    "static/media/logo.svg": "/mon_portfolio/static/media/logo.8e760671ee3c676e0dc8f9d0bbfce29e.svg",
+    "static/media/logo.svg": "/mon_portfolio/static/media/logo.f6a5304d1b4cc3e0a0b5d37c43202ef9.svg",
     "index.html": "/mon_portfolio/index.html",
     "static/media/arrowDown.svg": "/mon_portfolio/static/media/arrowDown.4f5ce4e215d386bda0f6cc85d4440baa.svg",
     "main.cfe1bd57.css.map": "/mon_portfolio/static/css/main.cfe1bd57.css.map",
-    "main.b8ec3b93.js.map": "/mon_portfolio/static/js/main.b8ec3b93.js.map"
+    "main.c29eaf43.js.map": "/mon_portfolio/static/js/main.c29eaf43.js.map"
   },
   "entrypoints": [
     "static/css/main.cfe1bd57.css",
-    "static/js/main.b8ec3b93.js"
+    "static/js/main.c29eaf43.js"
   ]
 }
