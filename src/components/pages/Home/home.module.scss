@@ -1,0 +1,128 @@
+.container {
+    //fullscreen
+    padding: 0 150px;
+    display: flex;
+
+
+    gap: 48px;
+
+    .first {
+        min-height: 100vh;
+        max-height: 100vh;
+        justify-content: center;
+        gap: 48px;
+        position: relative;
+
+        .je_suis {
+            color: var(--primaryColor);
+            font-family: var(--codeFont)
+        }
+
+        .sizeAnim {
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+
+            .typewriter {
+
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-start;
+
+                .name {
+                    display: flex;
+                    justify-content: flex-start;
+                    align-items: flex-start;
+                    color: var(--light-text);
+                    font-size: 50px;
+                    margin: 0;
+                    overflow: hidden;
+                    border-right: .15em solid var(--primaryColor);
+                    white-space: nowrap;
+                    animation: typing 2.5s steps(20, end), blink-caret 1s step-end infinite;
+                }
+            }
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink-caret {
+
+            from,
+            to {
+                border-color: transparent;
+            }
+
+            50% {
+                border-color: var(--primaryColor);
+            }
+        }
+
+    }
+
+    h2 {
+        font-size: 50px;
+        margin: 0
+    }
+
+    .stage {
+        max-width: 59%;
+        line-height: 1.8em;
+        display: inline-block;
+        color: var(--light-text);
+
+
+
+        span {
+            color: var(--primaryColor);
+            font-family: var(--codeFont)
+        }
+    }
+
+    .button {
+        max-width: 110px;
+    }
+
+    .arrowDiv {
+        display: flex;
+        align-items: center;
+        position: absolute;
+        bottom: 24px;
+        min-width: 200px;
+        left: calc(50% - 100px);
+        text-align: center;
+
+        p {
+            font-family: var(--codeFont)
+        }
+
+        .arrowDown {
+
+            max-width: 64px;
+            min-width: 64px;
+            min-height: 64px;
+            max-height: 64px;
+
+        }
+    }
+
+
+
+}
+
+.second {
+    // min-height: 100vh;
+    // max-height: 100vh;
+    justify-content: center;
+    padding-bottom: 48px;
+
+
+}

@@ -18,13 +18,16 @@ const NavBar = () => {
       <div className={mc.menu}>
         {" "}
         <Link to="/mon_portfolio">
-          <span>1.</span> Accueil
+          <span>#.</span> Accueil
         </Link>
-        <Link to="/mon_portfolio/a-propos">
-          <span>2.</span> À propos
+        <Link to="/mon_portfolio/qui_suis_je">
+          <span>1.</span> Qui sui-je?
         </Link>
-        <Link to="/mon_portfolio/competences-formations">
-          <span>3.</span> Compétences et formations
+        <Link to="/mon_portfolio/competences">
+          <span>2.</span> Compétences
+        </Link>
+        <Link to="/mon_portfolio/formations">
+          <span>3.</span> Formations
         </Link>
         <Link to="/mon_portfolio/projets">
           <span>4.</span> Mes projets

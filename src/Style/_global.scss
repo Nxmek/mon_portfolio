@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
     background: var(--darkColor);
     color: var(--text);
+
+    p {
+        letter-spacing: 0.1em;
+    }
 }
 
 ::selection {
