@@ -9,9 +9,9 @@
   <g id="Groupes">
     <g id="Polygone-2">
       <g clip-path="url(#clip_1)">
-        <use xlink:href="#path_1" fill="none" stroke="#64FFDA" stroke-width="30" />
+        <use xlink:href="#path_1" fill="none" stroke="#FF9F43" stroke-width="30" />
       </g>
     </g>
-    <path d="M334.604 145.5L264.332 337.1L217.668 337.1L147.396 145.5L188.571 145.5L241.275 297.847L293.704 145.5L334.604 145.5Z" id="V" fill="#64FFDA" fill-rule="evenodd" stroke="none" />
+    <path d="M334.604 145.5L264.332 337.1L217.668 337.1L147.396 145.5L188.571 145.5L241.275 297.847L293.704 145.5L334.604 145.5Z" id="V" fill="#FF9F43" fill-rule="evenodd" stroke="none" />
   </g>
 </svg>
